@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    font-size: 60px;
+
+}
+input[type=text]{
+    height: 20px;
+    width: 500px;
+    overflow: auto;
+}
